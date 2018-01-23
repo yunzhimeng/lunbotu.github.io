@@ -13,10 +13,10 @@ a{
 
 /**************/
 .box{
-    width: 800px;height: 800px;border: 1px solid #dedede;margin: 40px auto;background: #f9f9f9;
+    width: 500px;height: 300px;border: 1px solid #dedede;margin: 0px auto;background: #f9f9f9;
 }
 .all{
-    width: 500px;height: auto;margin: 60px auto;overflow: hidden;
+    width: 500px;height: auto;margin:0px auto;overflow: hidden;
 }
 .top-img{
     width: 500px;height: auto;font-size: 0;position: relative;
